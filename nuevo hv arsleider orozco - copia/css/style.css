@@ -1,0 +1,119 @@
+body{
+    font-family: lato;
+}
+
+header{
+    background-color: black;
+    color: white;
+    height: 20rem;
+}
+
+.contenedor-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 75rem;
+    text-align: center;
+}
+    
+.foto-perfil{
+    width: 10rem;
+    height: 10rem;
+    -moz-border-radiun: 50%;
+    -webkit-border-radiun: 50%;
+    background-image: url(../img/PicsArt_08-29-09.57.01.jpg);
+    background-position: center center;
+    background-size: cover;
+    border-radius: 50%;
+}
+
+.section{
+    width: 30rem;
+}
+
+.recuadro h3{
+    background-color: black;
+    color: aliceblue;
+    width: 16.5rem;
+    text-align: center;
+}
+.mmm{
+    width: 19rem;
+    height: 15.5rem;
+}
+
+.ajuste{
+    display: flex;
+}
+
+.barra{
+    max-width: 100%;
+    background: gray ;
+    
+}
+.barra1{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+    
+}
+
+.barra2{
+    max-width: 100%;
+    background: gray ;
+    
+}
+.barra3{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+    
+}
+
+.barra4{
+    max-width: 100%;
+    background: gray ;
+    
+}
+.barra5{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+    
+}
+
+.barra6{
+    max-width: 100%;
+    background: gray ;
+    
+}
+.barra7{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+    
+}
+
+.barra8{
+    max-width: 100%;
+    background: gray ;
+    
+}
+.barra9{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+    
+}
+
+.barra10{
+    max-width: 100%;
+    background: gray ;
+    
+}
+.barra11{
+    border: solid;
+    width: 100%;
+    padding: 0.5rem;
+    
+}
